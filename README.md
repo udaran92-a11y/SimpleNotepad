@@ -28,7 +28,8 @@ A simple Notepad-like application built using **Java Swing**, now extended with 
 
 
 2.Navigate to the project folder
-  SimpleNotepad.java file
+   
+   src ->  SimpleNotepad.java file
  
 
 3.Compile and run the program
