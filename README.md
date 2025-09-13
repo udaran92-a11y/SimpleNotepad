@@ -1,4 +1,4 @@
-# Simple_Notepad
+# SimpleNotepad
 
 
 # Java Swing Notepad (Extended)
